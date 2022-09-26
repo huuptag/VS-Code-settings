@@ -1,15 +1,15 @@
 .monaco-editor .cursors-layer .cursor {
-  background: #12c2e9; 
+  background: #FF3CAC; 
   background: -webkit-linear-gradient(
     to top,
-    #f64f59,
-    #c471ed,
-    #12c2e9
+    #FF3CAC,
+    #784BA0,
+    #2B86C5
   ); 
   background: linear-gradient(
     to top,
-    #f64f59,
-    #c471ed,
-    #12c2e9
+    #FF3CAC,
+    #784BA0,
+    #2B86C5
   ); 
 }
