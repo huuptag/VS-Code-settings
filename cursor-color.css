@@ -2,14 +2,12 @@
   background: #FF3CAC; 
   background: -webkit-linear-gradient(
     to top,
-    #FF3CAC,
-    #784BA0,
-    #2B86C5
+    #30cfd0,
+    #330867
   ); 
   background: linear-gradient(
     to top,
-    #FF3CAC,
-    #784BA0,
-    #2B86C5
+    #30cfd0,
+    #330867
   ); 
 }
